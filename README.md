@@ -1,6 +1,6 @@
-# GTC2020-AutoGluonCV
+# AutoGluon Hands-on Tutorials
 
-Materials for Nvidia GTC 2020: From HPO to NAS: Scalable autonomous deep learning for computer vision
+Materials for hands-on tutorials for AutoGluon.
 
 # Setup on Amazon SageMaker
 
